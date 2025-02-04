@@ -1,5 +1,15 @@
 ## Hi everyone and welcome! 👋
 
+<h2>👨‍💻 Information Technology Projects:</h2>
+
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/Jmad1k/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/Jmad1k/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/Jmad1k/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring Active Directory within Azure VMs](https://github.com/Jmad1k/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Jmad1k/azure-network-protocols)
+
 <!--
 **Jmad1k/Jmad1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
