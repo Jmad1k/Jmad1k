@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi everyone and welcome! 👋
 
 <!--
 **Jmad1k/Jmad1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
