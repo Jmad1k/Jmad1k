@@ -1,5 +1,8 @@
 <h1>Hi, I'm Gerardo, an IT Professional.
-<div>
+
+<h2 style="margin-bottom: 5px;">Technical Achievements, Certs & Badges</h4>
+<div style="border-bottom: 1px solid #d0d7de; margin-bottom: 20px;"></div>
+
 <a href="https://www.credly.com/badges/618374fa-c301-4472-bc1a-235569b8997e" target="_blank">
   <img src="google-it-support-professional-certificate-v2.png" alt="Google IT Support Professional" width="125" style="margin-right: 300 px;">
 </a>
