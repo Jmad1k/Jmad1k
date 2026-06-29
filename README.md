@@ -10,7 +10,7 @@
         <img src="it-technician-bootcamp.png" alt="IT Technician Bootcamp" width="115">
       </a>
       <br>
-      <a href="YOUR-PDF-LINK-HERE" style="font-size: 10px;">View Certificate</a>
+      <a href=https://github.com/Jmad1k/Jmad1k/blob/main/IT%20Technician%20Bootcamp_Certificate.pdf style="font-size: 11px; font-weight: normal;">View Certificate</a>
     </td>
     <td valign="top" align="center">
       <a href="https://www.credly.com/badges/618374fa-c301-4472-bc1a-235569b8997e" target="_blank">
