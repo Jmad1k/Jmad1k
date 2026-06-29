@@ -3,13 +3,24 @@
 <h2 style="margin-bottom: 5px;">Technical Achievements, Certs & Badges</h4>
 <div style="border-bottom: 1px solid #d0d7de; margin-bottom: 20px;"></div>
 
-<a href="https://www.credly.com/badges/618374fa-c301-4472-bc1a-235569b8997e" target="_blank">
-  <img src="google-it-support-professional-certificate-v2.png" alt="Google IT Support Professional" width="125" style="margin-right: 300 px;">
-</a>
-  <a href="https://www.credly.com/badges/0936a46b-fb13-4e3a-bb3b-fc126944fc87/public_url" target="_blank">
-  <img src="it-technician-bootcamp.png" alt="Google IT Support Professional" width="120">
-</a>
-</div>
+<table>
+  <tr>
+    <td valign="top" align="center">
+      <a href="https://www.credly.com/badges/0936a46b-fb13-4e3a-bb3b-fc126944fc87/public_url" target="_blank">
+        <img src="it-technician-bootcamp.png" alt="IT Technician Bootcamp" width="115">
+      </a>
+      <br>
+      <a href="YOUR-PDF-LINK-HERE" style="font-size: 10px;">View Certificate</a>
+    </td>
+    <td valign="top" align="center">
+      <a href="https://www.credly.com/badges/618374fa-c301-4472-bc1a-235569b8997e" target="_blank">
+        <img src="google-it-support-professional-certificate-v2.png" alt="Google IT Support" width="125">
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
